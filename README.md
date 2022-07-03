@@ -1,4 +1,4 @@
-[![MasterHead](https://sloanreview.mit.edu/wp-content/uploads/2020/09/EG2-Redman-Davenport-Serious-Data-Science-2400x1260-1-1200x630.jpg](http://Sandeshkamble1.github.io)
+[![MasterHead](https://sloanreview.mit.edu/wp-content/uploads/2020/09/EG2-Redman-Davenport-Serious-Data-Science-2400x1260-1-1200x630.jpg)(http://Sandeshkamble1.github.io)]
 <h1 align="center">Hi 👋, I'm Sandesh Kamble</h1>
 <h3 align="center">A passionate Data Scientist from Mumbai,India.</h3>
 (img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/35/7d/ca357d4f625e62b94945891ca56b527d.gif")
