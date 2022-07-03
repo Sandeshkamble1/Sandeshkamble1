@@ -1,6 +1,6 @@
 ![MasterHead](https://infosense.com.au/wp-content/uploads/2018/12/advanced-analytics-solutions-for-retail.jpg)
 <h1 align="center">Hi 👋, I'm Sandesh Kamble</h1>
-<h3 align="center">A passionate Data Scientist from Mumbai,India.</h3>
+<h3 align="center">A passionate Data Science enthusiast from Mumbai,India.</h3>
 <p><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/35/7d/ca357d4f625e62b94945891ca56b527d.gif")/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshkamble1&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshkamble1" /> </p>
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandesh kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesh kamble" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeshkamble701423200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesh kamble" height="30" width="40" /></a>
 <a href="https://instagram.com/sandesh__kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandesh__kamble" height="30" width="40" /></a>
 </p>
 
