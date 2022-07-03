@@ -1,4 +1,4 @@
-![MasterHead](https://assets.team-consulting.com/wp-content/uploads/2022/01/07155136/animation-of-data-points-floating-on-a-dark-background.gif)
+![MasterHead](https://infosense.com.au/wp-content/uploads/2018/12/advanced-analytics-solutions-for-retail.jpg)
 <h1 align="center">Hi 👋, I'm Sandesh Kamble</h1>
 <h3 align="center">A passionate Data Scientist from Mumbai,India.</h3>
 <p><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/35/7d/ca357d4f625e62b94945891ca56b527d.gif")/> </p>
